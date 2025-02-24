@@ -1,7 +1,7 @@
 package driver
 
 import (
-	"github.com/douglaslim/gorql"
+	"github.com/samuelabc/gorql"
 )
 
 const (

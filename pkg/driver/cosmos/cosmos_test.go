@@ -1,7 +1,7 @@
 package cosmos
 
 import (
-	"github.com/douglaslim/gorql"
+	"github.com/samuelabc/gorql"
 	"reflect"
 	"strings"
 	"testing"

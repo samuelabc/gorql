@@ -1,7 +1,7 @@
 package mongo
 
 import (
-	"github.com/douglaslim/gorql"
+	"github.com/samuelabc/gorql"
 	"strings"
 	"testing"
 	"time"

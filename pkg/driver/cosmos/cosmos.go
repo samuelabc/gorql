@@ -2,8 +2,8 @@ package cosmos
 
 import (
 	"fmt"
-	"github.com/douglaslim/gorql"
-	"github.com/douglaslim/gorql/pkg/driver"
+	"github.com/samuelabc/gorql"
+	"github.com/samuelabc/gorql/pkg/driver"
 	"net/url"
 	"strconv"
 	"strings"
