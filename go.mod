@@ -1,4 +1,4 @@
-module github.com/douglaslim/gorql
+module github.com/samuelabc/gorql
 
 go 1.18
 
